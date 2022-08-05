@@ -30,7 +30,7 @@ My work on community composition and diversity also extends to the coastal zone 
 
 ![norwayordinationfigure](https://user-images.githubusercontent.com/62513493/182974005-c1844b0e-bc06-4174-8292-fdf4603aa8ee.jpg)
 
-[Barceló et al. 2016 Global Change Biology[(https://onlinelibrary.wiley.com/doi/10.1111/gcb.13047)
+[Barceló et al. 2016 Global Change Biology](https://onlinelibrary.wiley.com/doi/10.1111/gcb.13047)
 
 #### 3. California nearshore ecosystems and marine reserves
 ##### a. Timescales of fishery yield increase after marine reserve implementation
