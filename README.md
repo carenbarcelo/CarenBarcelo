@@ -62,4 +62,4 @@ Characterizing the behaviors of sea turtles and identifying high-use areas as th
 
 [Barceló et al. 2013 MEPS](https://www.int-res.com/articles/meps2013/479/m479p235.pdf)
 
-Other projects and publications I've contributed to can be found on [researchgate](https://www.researchgate.net/profile/Caren-Barcelo-2).
+Other projects and publications I've collaborated on can be found on [researchgate](https://www.researchgate.net/profile/Caren-Barcelo-2).
