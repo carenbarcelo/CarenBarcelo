@@ -54,4 +54,4 @@ This experiment was led in collaboration with international colleagues at NIWA i
 
 ![spatialstockassessmentexperimentdiagram](https://user-images.githubusercontent.com/62513493/182973998-be7b9bd2-5125-40e0-aa80-40434714c3c4.jpg)
 
-Other projects and publications can be found on [researchgate](https://www.researchgate.net/profile/Caren-Barcelo-2).
+Other projects and publications I've been part of can be found on [researchgate](https://www.researchgate.net/profile/Caren-Barcelo-2).
