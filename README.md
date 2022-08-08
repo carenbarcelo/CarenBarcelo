@@ -28,7 +28,7 @@ In collaboration with OSU’s Marine Mammal Institute (Dr. Leigh Torres) and a b
 
 Physics-to-fisheries ecosystem models (or end-to-end models, E2E) are useful platforms for estimating how interacting species respond to changes in physical ocean conditions, to changes in inter-species interactions, and to alternate resource management policies. Few studies have considered reorganizations in food web structure arising from distinct physiological responses amongst the component model units (species or species complexes). Characterization of eco-physiological responses of different taxonomic groups within an E2E model is necessary for understanding the potential impact that climate change may have upon fish stocks and fishery yields, protected species, and large-scale ecosystem dynamics. In this study, we’ve incorporated physiological temperature coefficients into a 2D and 3D E2E multispecies model of the Northern California Current (NCC-ECOTRAN) and integrate climate change projections into ECOTRAN using a Regional Ocean Model System coupled with a biogeochemical model (ROMS-NEMUCSC) and forced by NOAA’s earth system model GFDL-ESM2M under the RCP8.5 emission scenario (from the NOAA/UCSC Future Seas team).  
 
-![physiologyECOTRAN](https://user-images.githubusercontent.com/62513493/183495078-bfdcef67-e47a-4f43-8e0b-6d581d605562.jpg)
+![physiologyECOTRAN](https://user-images.githubusercontent.com/62513493/183495293-18253171-1a62-46c8-8c5e-b0e79e370a0b.jpg)
 
 #### 2. Norwegian Skagerrak Archipelago
 
