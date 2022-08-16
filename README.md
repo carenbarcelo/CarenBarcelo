@@ -60,7 +60,8 @@ This experiment was led in collaboration with international colleagues at NIWA i
 
 ![spatialstockassessmentexperimentdiagram](https://user-images.githubusercontent.com/62513493/182973998-be7b9bd2-5125-40e0-aa80-40434714c3c4.jpg)
 
-#### 5. High-use areas, seasonal movements and dive patterns of juvenile loggerhead sea turtles in the Southwestern Atlantic Ocean 
+#### 5. Sea Turtle Bycatch
+##### a. High-use areas, seasonal movements and dive patterns of juvenile loggerhead sea turtles in the Southwestern Atlantic Ocean 
 
 Characterizing the behaviors of sea turtles and identifying high-use areas as they vary in time and space is important for conservation planning, particularly when turtles overlap with fisheries that may unintentionally harm them. Between July 2006 and March 2010, 27 satellite transmitters were deployed at sea on juvenile loggerheads Caretta caretta captured as bycatch in the Uruguayan and Brazilian pelagic longline fisheries operating in the Southwestern Atlantic Ocean. Tracking duration ranged from 3 to 639 d (mean ± SD: 259 ± 159 d; n = 27), during which turtles moved between latitudes of 25 to 45° S and longitudes 35 to 54° W. 
 
@@ -68,7 +69,7 @@ Characterizing the behaviors of sea turtles and identifying high-use areas as th
 
 [Barceló et al. 2013 MEPS](https://www.int-res.com/articles/meps2013/479/m479p235.pdf)
 
-#### 6. Sea Turtle Bycatch Mitigation in U.S. Longline Fisheries
+##### b. Sea Turtle Bycatch Mitigation in U.S. Longline Fisheries
 
 Capture of sea turtles in longline fisheries has been implicated in population declines of loggerhead (Caretta caretta) and leatherback (Dermochelys coriacea) turtles. Since 2004, United States (U.S.) longline vessels targeting swordfish and tunas in the Pacific and regions in the Atlantic Ocean have operated under extensive fisheries regulations to reduce the capture and mortality of endangered and threatened sea turtles. We analyzed 20+ years of longline observer data from both ocean basins during periods before and after the regulations to assess the effectiveness of the regulations. Using generalized additive mixed models (GAMMs), we investigated relationships between the probability of expected turtle interactions and operational components such as fishing location, hook type, bait type, sea surface temperature, and use of light sticks.
 
