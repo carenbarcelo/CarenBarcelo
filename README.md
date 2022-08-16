@@ -72,8 +72,8 @@ Characterizing the behaviors of sea turtles and identifying high-use areas as th
 
 Capture of sea turtles in longline fisheries has been implicated in population declines of loggerhead (Caretta caretta) and leatherback (Dermochelys coriacea) turtles. Since 2004, United States (U.S.) longline vessels targeting swordfish and tunas in the Pacific and regions in the Atlantic Ocean have operated under extensive fisheries regulations to reduce the capture and mortality of endangered and threatened sea turtles. We analyzed 20+ years of longline observer data from both ocean basins during periods before and after the regulations to assess the effectiveness of the regulations. Using generalized additive mixed models (GAMMs), we investigated relationships between the probability of expected turtle interactions and operational components such as fishing location, hook type, bait type, sea surface temperature, and use of light sticks.
 
-![kernelyonat](https://user-images.githubusercontent.com/62513493/184985869-4cebf07e-b056-4ece-a7ba-4f069c207734.jpg|width=100)
-![gammyonat](https://user-images.githubusercontent.com/62513493/184985879-c51aa429-1f5a-444d-91d6-bd2c1d55bbe4.jpg|width=100)
+![kernelyonat](https://user-images.githubusercontent.com/62513493/184985869-4cebf07e-b056-4ece-a7ba-4f069c207734.jpg){width=100}
+![gammyonat](https://user-images.githubusercontent.com/62513493/184985879-c51aa429-1f5a-444d-91d6-bd2c1d55bbe4.jpg){width=100}
 
 [Swimmer et al. 2017 FMS](https://www.frontiersin.org/articles/10.3389/fmars.2017.00260/full)
 
